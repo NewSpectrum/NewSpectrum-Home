@@ -4,117 +4,20 @@
 #|
 #|  Always Keep Documentation Files
 #|    - Base Name: 'README'
-!**/*README*/*
-!**/*README/*
-!**/*-README.*
-!**/*.README.*
-!**/README.mdx
-!**/README.md
-!**/README.*
-#|    - Base Name: 'Wiki'
-!**/*Wiki*/*
-!**/*Wiki/*
-!**/*-Wiki.*
-!**/*.Wiki.*
-!**/Wiki.*
-!**/Wiki.md
-!*.wiki
-!*.mediawiki
-#|    - Base Name: 'Documentation'
-!**/*Documentation*/*
-!**/*Documentation/*
-!**/Documentation*/*
-!**/Documentation/*
-#|    - Base Name: 'template-files'
-!/.template-files/**
-#|    - Base Name: 'placeholder'
-!**/.placeholder
-!**/placeholder
-
-
+!*-README.*
+!*.README.*
+!README.*
+#|
+#|
 #|=============================|#
-#|  Temporary Files & Folders  |#
+#|  Always Ignore 'old' Items  |#
 #|=============================|#
 #|
-#|  Ignore Temporary Folders
-#|    - Base Name: 'temp'
-**/*.temp/*
-**/*temp/*
-**/temp/*
-#|	  - Base Name: 'tmp'
-**/*.tmp*/*
-**/*.tmp/*
-**/*tmp*/*
-**/*tmp/*
-**/.tmp*/*
-**/.tmp/*
-**/tmp*/*
-**/tmp/*
-#|
-#|  Ignore Temporary Files
-#|    - Base Name: 'temp'
-*.temp.*
-*.temp
-*temp.*
-.temp.*
-temp.*
-#|    - Base Name: 'tmp'
-*.tmp.*
-*.tmp*
-*.tmp
-*.tmp*
-*tmp.*
-.tmp.*
-tmp.*
-
-
-#|========================|#
-#|  Misc Files & Folders  |#
-#|========================|#
-#|
-#|  Ignore Misc Folders
-#|    - Base Name: 'misc'
-**/*.misc*/*
-**/*.misc/*
-**/*misc*/*
-**/*misc/*
-**/.misc*/*
-**/.misc/*
-**/misc*/*
-**/misc/*
-#|
-#|  Ignore Temporary Files
-#|    - Base Name: 'temp'
-*.misc.*
-*.misc*
-*.misc
-*.misc*
-*misc.*
-.misc.*
-misc.*
-
-
-#|=======================|#
-#|  Old Files & Folders  |#
-#|=======================|#
-#|
-#|  Ignore Old Folders
-#|	  - Base Name: 'old'
-**/*.old*/*
+#|  Ignore 'old' Directories
+#|    - Ignore [old] Directory Patterns
+**/*.old.*/*
 **/*.old/*
-**/*old*/*
-**/*old/*
-**/.old*/*
 **/.old/*
-**/old*/*
+**/*old.*/*
+**/*old/*
 **/old/*
-#|
-#|  Ignore Temporary Files
-#|    - Base Name: 'temp'
-*.old.*
-*.old*
-*.old
-*.old*
-*old.*
-.old.*
-old.*
