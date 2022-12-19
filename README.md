@@ -1,3 +1,3 @@
-# NS Simple Template
+# New Spectrum's Git-Home
 
-A basic Template Repository for __[GitHub](https://github.com/)__
+This is, more or less, the "Primary" GitHub repository where all public discussions will be linked to and all New Spectrum Resources are mapped.
