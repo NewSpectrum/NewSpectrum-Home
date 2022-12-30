@@ -4,7 +4,7 @@ base_url			: ""
 #repository			: "github.com/NewSpectrum/NewSpectrum-Home"
 title				: "New Spectrum Home"
 title_separator		: "-"
-skin				: night
+
 
 # Plugins
 plugins:
