@@ -1,4 +1,4 @@
-remote_theme		: cotes2020/jekyll-theme-chirpy
+remote_theme		: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 url					: https://hub.newspectrum.dev/
 base_url			: ""
 #repository			: "github.com/NewSpectrum/NewSpectrum-Home"
