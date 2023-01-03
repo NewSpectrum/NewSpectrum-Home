@@ -3,36 +3,12 @@ layout: home
 # Index Page
 ---
 
-# New Spectrum`.dev`
+# New Spectrum's Git-Hub
 
-pls
-
-```bash
-function beg() {
-    echo "I beg"
-}
-beg
-```
+Literally.
 
 
 
 
-<!--
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="UTF-8"/>
-	<meta name="viewport"
-		  content="width=device-width,
-		           initial-scale=1.0"/>
-	
-	<title>New Spectrum Home</title>
-</head>
-<body>
-	<header>
-		<h1>New Spectrum.dev</h1>
-		pls work
-	</header>
-</body>
-</html>
--->
+
+
