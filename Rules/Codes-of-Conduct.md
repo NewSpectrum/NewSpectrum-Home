@@ -47,7 +47,7 @@ Regardless, nobody's perfect, and warning labels exist for a reason. :slightly_s
 	- Please be aware that the community is full of users of all kinds. Most are developers, some are just users looking for answers. Be open to other ideas *and* experience levels.
 - __Be Respectful__
 	- The goal for social collaboration is __[Constructive Criticism]__.
-	- > "...remember to criticize __ideas__, not __people__."
+		- > "...remember to criticize __ideas__, not __people__."
 	- 
 
 
