@@ -14,6 +14,9 @@
 
 <br />
 
+[![Report to GitHub](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FNewSpectrum%2FFree-and-Fancy-Assets%2Fmain%2FShields%2FJSON%2Freport-abuse%2FGitHub%2Freport-abuse-gh2.json)](https://github.com/contact/report-abuse) [![Report to New Spectrum](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FNewSpectrum%2FFree-and-Fancy-Assets%2Fmain%2FShields%2FJSON%2Freport-abuse%2FGitHub%2Freport-abuse-ns2.json)](url)
+
+
 __The New Spectrum__
 
 # Codes of Conduct
@@ -38,7 +41,7 @@ Because I would honestly be shocked if anyone got *this* far in __*my*__ boring 
 
 ### TLDR: Community Code of Conduct
 
-As long as you have a solid understanding of __"Acceptable Social Behavior"__, as well as a legitimate understanding of the elusive and *not-so-common* __[Common Sense]__, the __[GitHub Community Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct)__ should be a long list of no-brainers.
+As long as you have a solid understanding of __"Acceptable Social Behavior"__, as well as a legitimate understanding of the elusive and *not-so-common* __[Common Sense](url)__, the __[GitHub Community Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct)__ should be a long list of no-brainers.
 
 Regardless, nobody's perfect, and warning labels exist for a reason. :slightly_smiling_face:
 
@@ -46,9 +49,8 @@ Regardless, nobody's perfect, and warning labels exist for a reason. :slightly_s
 - __Be Welcoming & Open-Minded__
 	- Please be aware that the community is full of users of all kinds. Most are developers, some are just users looking for answers. Be open to other ideas *and* experience levels.
 - __Be Respectful__
-	- The goal for social collaboration is __[Constructive Criticism]__.
-		- > "...remember to criticize __ideas__, not __people__."
-	- 
+	- The goal for social collaboration is __[Constructive Criticism](url)__.
+	- We aren't here to generate hostility, and any attempts to do so will not be tolerated.
 
 
 
