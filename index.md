@@ -2,6 +2,22 @@
 layout: home
 # Index Page
 ---
+
+# New Spectrum`.dev`
+
+pls
+
+```bash
+function beg() {
+    echo "I beg"
+}
+beg
+```
+
+
+
+
+<!--
 <!DOCTYPE html>
 <html>
 <head>
@@ -19,3 +35,4 @@ layout: home
 	</header>
 </body>
 </html>
+-->
