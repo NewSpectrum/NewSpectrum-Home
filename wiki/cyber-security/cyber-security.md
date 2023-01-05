@@ -6,7 +6,7 @@
 
 | Company   | Domain(s) | Full URL | Shortened URL |
 | :---: | :--- | :--- | :--- |
-| [<img id="Amazon" src="../../assets/icons/companies/amazon/Amazon-logo_white-txt.svg" alt="Amazon Logo" height="24px" width="auto" />](https://amazon.com/) | `amazon.com` | <code><pre>https://amazon.com/your-account/[sub-page(s)]/[data]</pre></code> | <pre>https://amazon.com/a/[compressed-data]</pre> |
+| [<img id="Amazon" src="../../assets/icons/companies/amazon/Amazon-logo_white-txt.svg" alt="Amazon Logo" height="24px" width="auto" />](https://amazon.com/) | `amazon.com` | <pre>`https://amazon.com/your-account/[sub-page(s)]/[data]`</pre> | <pre>https://amazon.com/a/[compressed-data]</pre> |
 | [<img id="Apple" src="../../assets/icons/companies/apple/Apple-logo_white.svg" alt="Apple Logo" height="24px" width="auto" />](https://apple.com/) | `apple.com`<br />`icloud.com` | <pre>https://apps.apple.com/us/app/[app-name]/[app-id]</pre> | <pre>https://apple.co/[compressed-data]</pre> |
 | [<img id="YouTube" src="../../assets/icons/companies/google/YouTube-Logo_white-txt.svg" alt="COMPANY Logo" height="24px" width="auto" />](https://YouTube.com/)   | `youtube.com` | <pre>https://youtube.com/watch/[video-ID][context-data]</pre> | <pre>https://youtu.be/[video-ID][context-data]</pre> |
 
