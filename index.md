@@ -1,6 +1,7 @@
 ---
-layout: home
-# Index Page
+layout:      home
+title:       "Home"
+pagignate:   false
 ---
 
 # New Spectrum's Git-Hub

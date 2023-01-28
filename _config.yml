@@ -2,9 +2,15 @@ remote_theme		: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 url					: https://hub.newspectrum.dev/
 base_url			: ""
 #repository			: "github.com/NewSpectrum/NewSpectrum-Home"
-title				: "New Spectrum Home"
+title				: "New Spectrum"
 title_separator		: "-"
 
+navigation_pages:
+  - index.md
+  #- Wiki Pages
+  - "/pages/wikis/wiki-home.md"
+  #- Community & Contribution Pages
+  - "/pages/community/community-home.md"
 
 # Plugins
 plugins:
