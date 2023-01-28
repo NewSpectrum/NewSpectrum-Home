@@ -6,7 +6,6 @@ title				: "New Spectrum"
 title_separator		: "-"
 
 navigation_pages:
-  - index.md
   #- Wiki Pages
   - "/pages/wikis/wiki-home.md"
   #- Community & Contribution Pages
