@@ -15,9 +15,9 @@
 #|
 #|  Ignore 'old' Directories
 #|    - Ignore [old] Directory Patterns
-**/*.old.*/*
-**/*.old/*
-**/.old/*
-**/*old.*/*
-**/*old/*
-**/old/*
+*.old.*/*
+*.old/*
+.old/*
+*old.*/*
+*old/*
+old/*
