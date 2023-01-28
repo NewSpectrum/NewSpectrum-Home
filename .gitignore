@@ -21,3 +21,29 @@
 *old.*/*
 *old/*
 old/*
+#|
+#|  Ignore Old Files
+#|    - Ignore [old] File Patterns
+*.old.*
+.old.*
+*_old.*
+*.old
+#|==============================|#
+#|  Always Ignore 'temp' Items  |#
+#|==============================|#
+#|
+#|  Ignore Temporary Directories
+#|    - Ignore [tmp] Directory Patterns
+*.tmp.*/*
+*.tmp/*
+.tmp/*
+*tmp.*/*
+*tmp/*
+tmp/*
+#|
+#|  Ignore Temporary Files
+#|    - Ignore [tmp] File Patterns
+*.tmp.*
+.tmp.*
+*_tmp.*
+*.tmp
