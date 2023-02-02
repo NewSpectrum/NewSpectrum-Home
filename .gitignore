@@ -15,9 +15,28 @@
 #|
 #|  Ignore 'old' Directories
 #|    - Ignore [old] Directory Patterns
-**/*.old.*/*
-**/*.old/*
-**/.old/*
-**/*old.*/*
-**/*old/*
-**/old/*
+*.old.*/*
+*.old/*
+.old/*
+*old.*/*
+*old/*
+old/*
+#|
+#|
+#|==========================|#
+#|   Ruby | Gems | Jekyll   |#
+#|==========================|#
+#|
+#|  Ruby Patterns
+#|    - Ignore File Patterns
+
+#|
+#|  Gem Patterns
+#|    - Ignore [Gemfile|.gemspec] Patterns
+Gemfile.lock
+# *.gem
+#|
+#|  Jekyll Patterns
+#|    - Ignore Directory Patterns
+#|      (to keep out of site builds)
+drafts/*
