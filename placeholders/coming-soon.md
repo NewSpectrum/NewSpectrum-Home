@@ -13,7 +13,9 @@ Allow me to explain either possibility...
 
 ### Why doesn't it exist?
 
-If it truly doesn't exist, you found your way here because a __Wiki Page__, __README__, or other similar document was (or is being) written with the links/references pre-configured to match a file that has not yet been created- or a destination (e.g. some external resource) that hasn't been found/properly referenced. Though this might be an annoying experience, for which I apologise, this is still the most efficient way of creating properly-referenced documentation.
+If it truly doesn't exist, you found your way here because a __Wiki Page__, __README__, or other similar document was (or is being) written with the links/references pre-configured to match a file that has not yet been created- or a destination (e.g. some external resource) that hasn't been found/properly referenced.
+
+Though this might be an annoying experience, for which I apologise, this is still the most efficient way of creating properly-referenced documentation.
 
 
 ### What does *hilariously ill-prepared* mean, precisely?
