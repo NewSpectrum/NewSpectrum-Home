@@ -1,5 +1,5 @@
 <img id="Lost GIF"
-     href="https://media2.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif?cid=2154d3d7a9qtnk1xkz4ecz55wh6urcqvebmrt2lnugsno998&rid=giphy.gif&ct=g"
+     href="https://raw.githubusercontent.com/NewSpectrum/NewSpectrum-Home/main/assets/img/gifs/IMB_8zGAko.gif"
      alt="Sorry, it's lost."
 	 width="100%" height="auto"
      />
