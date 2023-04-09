@@ -1,9 +1,14 @@
 # Oops
 
-Sorry, the file/wiki/heading/etc you clicked on is either under construction and hilariously ill-prepared for public viewing, or it hasn't even been created yet.
-	 
+Sorry, the __file__, __wiki__, or __documentation__ you clicked on is either under construction and *hilariously* ill-prepared for public viewing, or it hasn't even been created yet. 
+
 ![IMB_8zGAko](https://user-images.githubusercontent.com/100762874/230758762-8ca2b912-ef19-4331-8627-a61818f5b71c.gif)
 
+---
+
+## Wondering what happened?
+
+Allow me to explain either possibility...
 
 ### What does *hilariously ill-prepared* mean, precisely?
 
