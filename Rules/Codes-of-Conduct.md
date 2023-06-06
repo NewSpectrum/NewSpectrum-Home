@@ -1,12 +1,48 @@
-### Table of Contents
+# Community Rules
 
-#### [GitHub Posting](https://github.com/NewSpectrum/NewSpectrum-Home/blob/main/Rules/Codes-of-Conduct.md#github-posting)
-- [Issues](https://github.com/NewSpectrum/NewSpectrum-Home/blob/main/Rules/Codes-of-Conduct.md#issues)
-- [Discussions](https://github.com/NewSpectrum/NewSpectrum-Home/blob/main/Rules/Codes-of-Conduct.md#discussions)
-	
-#### [Chat Servers](url)
-- [Discord](https://github.com/NewSpectrum/NewSpectrum-Home/blob/main/Rules/Codes-of-Conduct.md#discord)
-- [Slack](https://github.com/NewSpectrum/NewSpectrum-Home/blob/main/Rules/Codes-of-Conduct.md#slack)
+<details id="toc_container" open>
+	<summary>
+		<h2 id="table-of-contents"
+		    style="display: inline">
+			Table of Contents
+		</h2>
+	</summary>
+<!-- SECTION -->
+	<h3>
+		<a href="#posting-on-github">
+			Posting on GitHub
+		</a>
+	</h3>
+	<ul>
+		<li>
+			<a href="#posting-issues">
+				Posting Issues
+			</a>
+		</li>
+		<li>
+			<a href="#posting-discussions">
+				Posting Discussions
+			</a>
+		</li>
+	</ul>
+	<h3>
+		<a href="#chat-servers">
+			Chat Servers
+		</a>
+	</h3>
+	<ul>
+		<li>
+			<a href="#community-discord">
+				NewSpectrum.dev Community Discord
+			</a>
+		</li>
+		<li>
+			<a href="#official-slack">
+				NewSpectrum.dev Official Slack
+			</a>
+		</li>
+	</ul>
+</details>
 
 <br />
 
@@ -14,7 +50,7 @@
 
 <br />
 
-[![Report to GitHub](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FNewSpectrum%2FFree-and-Fancy-Assets%2Fmain%2FShields%2FJSON%2Freport-abuse%2FGitHub%2Freport-abuse-gh2.json)](https://github.com/contact/report-abuse) [![Report to New Spectrum](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FNewSpectrum%2FFree-and-Fancy-Assets%2Fmain%2FShields%2FJSON%2Freport-abuse%2FGitHub%2Freport-abuse-ns2.json)](url)
+[![Report to GitHub](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FNewSpectrum%2FFree-Assets-and-Resources%2Fmain%2FShields%2FJSON%2Freport-abuse%2FGitHub%2Freport-abuse-gh2.json)](https://github.com/contact/report-abuse) [![Report to New Spectrum](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FNewSpectrum%2FFree-and-Fancy-Assets%2Fmain%2FShields%2FJSON%2Freport-abuse%2FGitHub%2Freport-abuse-ns2.json)](url)
 
 
 __The New Spectrum__
@@ -29,7 +65,7 @@ __Please read-__ *or __at least__ skim* through the relevant __Codes of Conduct_
 
 <br />
 
-# GitHub Posting
+# Posting on GitHub
 
 When posting anything to __New Spectrum's__ __[GitHub Forums]__, our __Codes of Conduct__ isn't much different from that of the __[GitHub Community Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct)__.
 
