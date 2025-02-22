@@ -36,11 +36,6 @@
 				NewSpectrum.dev Community Discord
 			</a>
 		</li>
-		<li>
-			<a href="#official-slack">
-				NewSpectrum.dev Official Slack
-			</a>
-		</li>
 	</ul>
 </details>
 
